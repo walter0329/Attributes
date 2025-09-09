@@ -1,0 +1,33 @@
+{
+    "name": "taknone/attributes",
+    "license": "MIT",
+    "description": "Attribute-based validation for PHP 8.3+",
+    "type": "library",
+    "keywords": [
+        "attribute",
+        "validation",
+        "filter",
+        "php",
+        "checker",
+        "async"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tak\\Attributes\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tak None",
+            "email": "MrTakNone@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.3",
+        "ext-json": "*",
+        "ext-filter": "*",
+        "ext-hash": "*",
+        "amphp/amp": "^3.1.0"
+    }
+}
