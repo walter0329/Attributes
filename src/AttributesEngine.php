@@ -106,9 +106,11 @@ trait AttributesEngine {
 				foreach($pMeta['validators'] as $validator){
 					$value = $validator->validate($pMeta['name'],$value);
 				}
-				$isAccessible |= empty($pMeta['validators']) === false;
 			}
 			$args[$pMeta['name']] = $value;
+		}
+		foreach($metas['parameters'] as $pMeta){
+			$isAccessible |= empty($pMeta['validators']) === false;
 		}
 		$isAccessible |= empty($metas['performers']) === false;
 		$isAccessible |= empty($metas['return']) === false;
